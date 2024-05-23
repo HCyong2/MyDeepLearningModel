@@ -71,7 +71,7 @@ data_root = 'Your/path/to/CUB_200_2011'
 正常训练结果如图
 请忽略warning信息（\^w\^），能跑就行
 
-![]([.](https://github.com/HCyong2/MyModel_for_CUB_200_2011/tree/master/MyModel_for_CUB_200_2011/pictures/test01.png)
+![image](https://github.com/HCyong2/MyModel_for_CUB_200_2011/tree/master/MyModel_for_CUB_200_2011/pictures/test01.png)
 
 ### 4.模型训练过程可视化
 
